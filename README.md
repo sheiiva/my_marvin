@@ -23,4 +23,4 @@ Throughout this project you will use **Configuration as Code** (a.k.a. **JCasC**
 
 > There must be no hardcoded password, all of them must be set by retrieving the valuesof the associated environment variables.
 
-Author [**Corentin COUTRET-ROZET**](https://github.com/sheiiva)
+Author [**Corentin COUTRET-ROZET**](https://github.com/sheiiva) and [**Hugo LACHKAR**](https://github.com/HugoTkBCN)
